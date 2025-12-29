@@ -2,9 +2,9 @@
 
 基于ROS2和MoveIt2的Dobot Nova5机械臂3D视觉避障系统
 
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
-![MoveIt2](https://img.shields.io/badge/MoveIt2-2.5-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Weixin Image_20251229200601_1_46](https://github.com/user-attachments/assets/dcf5bc66-d60d-4898-a03d-0f594112b425)
+![demo](https://github.com/user-attachments/assets/351b3b5e-bdfa-4cd5-9e1d-e1d277f8e65d)
+
 
 ## 项目简介
 
