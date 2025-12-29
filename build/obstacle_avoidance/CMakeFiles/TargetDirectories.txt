@@ -1,0 +1,9 @@
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/uninstall.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/obstacle_avoidance_uninstall.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/test.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/edit_cache.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/rebuild_cache.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/list_install_components.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/install.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/install/local.dir
+/home/zy/dobot_ws/build/obstacle_avoidance/CMakeFiles/install/strip.dir

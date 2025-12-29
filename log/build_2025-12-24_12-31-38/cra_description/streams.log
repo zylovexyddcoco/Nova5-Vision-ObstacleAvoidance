@@ -1,0 +1,113 @@
+[0.057s] Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cra_description -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cra_description
+[1.419s] -- The C compiler identification is GNU 11.4.0
+[1.419s] -- The CXX compiler identification is GNU 11.4.0
+[1.419s] -- Detecting C compiler ABI info
+[1.419s] -- Detecting C compiler ABI info - done
+[1.419s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.419s] -- Detecting C compile features
+[1.420s] -- Detecting C compile features - done
+[1.420s] -- Detecting CXX compiler ABI info
+[1.420s] -- Detecting CXX compiler ABI info - done
+[1.420s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.420s] -- Detecting CXX compile features
+[1.420s] -- Detecting CXX compile features - done
+[1.420s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.452s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.924s] -- Configuring done
+[1.930s] -- Generating done
+[1.934s] -- Build files have been written to: /home/zy/dobot_ws/build/cra_description
+[2.142s] Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cra_description -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cra_description
+[2.147s] Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cra_description -- -j32 -l32
+[2.291s] Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cra_description -- -j32 -l32
+[2.296s] Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cra_description
+[2.320s] -- Install configuration: ""
+[2.321s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/ament_index/resource_index/package_run_dependencies/cra_description
+[2.322s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/ament_index/resource_index/parent_prefix_path/cra_description
+[2.323s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/environment/ament_prefix_path.sh
+[2.323s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/environment/ament_prefix_path.dsv
+[2.324s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/environment/path.sh
+[2.324s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/environment/path.dsv
+[2.325s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/local_setup.bash
+[2.326s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/local_setup.sh
+[2.327s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/local_setup.zsh
+[2.328s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/local_setup.dsv
+[2.328s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/package.dsv
+[2.328s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/ament_index/resource_index/packages/cra_description
+[2.329s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/cmake/cra_descriptionConfig.cmake
+[2.329s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/cmake/cra_descriptionConfig-version.cmake
+[2.329s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/package.xml
+[2.330s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf
+[2.330s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/nova5_robot.xacro
+[2.331s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr7_robot.xacro
+[2.331s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr3_robot.xacro
+[2.333s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr5_robot.xacro
+[2.333s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr10_robot.xacro
+[2.334s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr12_robot.xacro
+[2.334s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/cr16_robot.xacro
+[2.335s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/urdf/nova2_robot.xacro
+[2.335s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes
+[2.335s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2
+[2.336s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link1.STL
+[2.337s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link5.STL
+[2.338s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link3.STL
+[2.341s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link6.STL
+[2.342s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/base_link.STL
+[2.344s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link2.STL
+[2.346s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova2/Link4.STL
+[2.349s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16
+[2.350s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link1.STL
+[2.351s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link5.STL
+[2.352s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link3.STL
+[2.354s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link6.STL
+[2.356s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/base_link.STL
+[2.361s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link2.STL
+[2.363s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr16/Link4.STL
+[2.364s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12
+[2.365s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J3.STL
+[2.367s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J1.STL
+[2.368s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J6.STL
+[2.371s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J4.STL
+[2.372s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/base_link0.STL
+[2.376s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J5.STL
+[2.378s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr12/J2.STL
+[2.379s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5
+[2.380s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link2.dae
+[2.382s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link4.dae
+[2.383s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link6.dae
+[2.385s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link5.dae
+[2.387s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link1.dae
+[2.389s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/Link3.dae
+[2.392s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr5/base_link.dae
+[2.393s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3
+[2.393s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link1.STL
+[2.393s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link5.STL
+[2.394s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link3.STL
+[2.394s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link6.STL
+[2.396s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/base_link.STL
+[2.401s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link2.STL
+[2.402s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr3/Link4.STL
+[2.402s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5
+[2.402s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link1.STL
+[2.404s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link5.STL
+[2.406s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link3.STL
+[2.407s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link6.STL
+[2.408s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/base_link.STL
+[2.409s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link2.STL
+[2.410s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/nova5/Link4.STL
+[2.412s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10
+[2.413s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link1.STL
+[2.413s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link5.STL
+[2.414s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link3.STL
+[2.414s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link6.STL
+[2.417s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/base_link.STL
+[2.419s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link2.STL
+[2.419s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr10/Link4.STL
+[2.420s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7
+[2.420s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J3.STL
+[2.421s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J1.STL
+[2.423s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J6.STL
+[2.423s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J4.STL
+[2.425s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/base_link0.STL
+[2.425s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J5.STL
+[2.426s] -- Installing: /home/zy/dobot_ws/install/cra_description/share/cra_description/meshes/cr7/J2.STL
+[2.577s] Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cra_description

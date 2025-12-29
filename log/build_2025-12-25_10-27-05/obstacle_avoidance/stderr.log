@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:53 (file):
+  file INSTALL cannot find
+  "/home/zy/dobot_ws/src/obstacle_avoidance/scripts/pointcloud_filter.py": No
+  such file or directory.
+
+[0m

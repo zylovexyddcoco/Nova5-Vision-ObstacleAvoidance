@@ -1,0 +1,25 @@
+[0.344s] Invoking command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_moveit': PYTHONPATH=/home/zy/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/zy/dobot_ws/build/dobot_moveit/build install --record /home/zy/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data
+[0.447s] running egg_info
+[0.447s] writing ../../../build/dobot_moveit/dobot_moveit.egg-info/PKG-INFO
+[0.447s] writing dependency_links to ../../../build/dobot_moveit/dobot_moveit.egg-info/dependency_links.txt
+[0.447s] writing entry points to ../../../build/dobot_moveit/dobot_moveit.egg-info/entry_points.txt
+[0.447s] writing requirements to ../../../build/dobot_moveit/dobot_moveit.egg-info/requires.txt
+[0.447s] writing top-level names to ../../../build/dobot_moveit/dobot_moveit.egg-info/top_level.txt
+[0.448s] reading manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[0.457s] writing manifest file '../../../build/dobot_moveit/dobot_moveit.egg-info/SOURCES.txt'
+[0.457s] running build
+[0.457s] running build_py
+[0.457s] copying dobot_moveit/action_move_server.py -> /home/zy/dobot_ws/build/dobot_moveit/build/lib/dobot_moveit
+[0.457s] running install
+[0.457s] running install_lib
+[0.457s] copying /home/zy/dobot_ws/build/dobot_moveit/build/lib/dobot_moveit/action_move_server.py -> /home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit
+[0.458s] byte-compiling /home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit/action_move_server.py to action_move_server.cpython-310.pyc
+[0.458s] running install_data
+[0.458s] running install_egg_info
+[0.459s] removing '/home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit-0.0.0-py3.10.egg-info' (and everything under it)
+[0.459s] Copying ../../../build/dobot_moveit/dobot_moveit.egg-info to /home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages/dobot_moveit-0.0.0-py3.10.egg-info
+[0.459s] running install_scripts
+[0.469s] Installing action_move_server script to /home/zy/dobot_ws/install/dobot_moveit/lib/dobot_moveit
+[0.469s] Installing joint_states script to /home/zy/dobot_ws/install/dobot_moveit/lib/dobot_moveit
+[0.469s] writing list of installed files to '/home/zy/dobot_ws/build/dobot_moveit/install.log'
+[0.480s] Invoked command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_moveit' returned '0': PYTHONPATH=/home/zy/dobot_ws/build/dobot_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_moveit build --build-base /home/zy/dobot_ws/build/dobot_moveit/build install --record /home/zy/dobot_ws/build/dobot_moveit/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cra_description -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cra_description
+Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cra_description -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cra_description
+Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cra_description -- -j32 -l32
+Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cra_description -- -j32 -l32
+Invoking command in '/home/zy/dobot_ws/build/cra_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cra_description
+Invoked command in '/home/zy/dobot_ws/build/cra_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cra_description

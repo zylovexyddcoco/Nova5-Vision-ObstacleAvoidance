@@ -1,0 +1,16 @@
+-- Install configuration: ""
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/camera.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/camera_tf.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/octomap.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/obstacle_avoidance.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/move_group_sensors.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/config
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/config/octomap_config.yaml
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/lib/obstacle_avoidance/octomap_to_planning_scene.py
+[31mCMake Error at cmake_install.cmake:53 (file):
+  file INSTALL cannot find
+  "/home/zy/dobot_ws/src/obstacle_avoidance/scripts/pointcloud_filter.py": No
+  such file or directory.
+
+[0m

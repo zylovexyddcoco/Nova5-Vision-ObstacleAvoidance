@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/camera_tf.launch.py
+-- Installing: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/camera_optimized.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/octomap.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/obstacle_avoidance.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/launch/move_group_sensors.launch.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/config
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/config/octomap_config.yaml
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/lib/obstacle_avoidance/octomap_to_planning_scene.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/lib/obstacle_avoidance/self_filter.py
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/ament_index/resource_index/package_run_dependencies/obstacle_avoidance
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/ament_index/resource_index/parent_prefix_path/obstacle_avoidance
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/environment/ament_prefix_path.sh
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/environment/path.sh
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/environment/path.dsv
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/local_setup.bash
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/local_setup.sh
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/local_setup.zsh
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/local_setup.dsv
+-- Installing: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/package.dsv
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/ament_index/resource_index/packages/obstacle_avoidance
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/cmake/obstacle_avoidanceConfig.cmake
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/cmake/obstacle_avoidanceConfig-version.cmake
+-- Up-to-date: /home/zy/dobot_ws/install/obstacle_avoidance/share/obstacle_avoidance/package.xml

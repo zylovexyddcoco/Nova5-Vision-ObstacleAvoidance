@@ -1,0 +1,62 @@
+[0.181s] Invoking command in '/home/zy/dobot_ws/build/nova2_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/nova2_moveit -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/nova2_moveit
+[0.518s] -- The C compiler identification is GNU 11.4.0
+[0.899s] -- The CXX compiler identification is GNU 11.4.0
+[0.957s] -- Detecting C compiler ABI info
+[1.469s] -- Detecting C compiler ABI info - done
+[1.503s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.505s] -- Detecting C compile features
+[1.508s] -- Detecting C compile features - done
+[1.530s] -- Detecting CXX compiler ABI info
+[2.057s] -- Detecting CXX compiler ABI info - done
+[2.123s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.125s] -- Detecting CXX compile features
+[2.129s] -- Detecting CXX compile features - done
+[2.149s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.209s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.190s] -- Configuring done
+[4.223s] -- Generating done
+[4.224s] -- Build files have been written to: /home/zy/dobot_ws/build/nova2_moveit
+[4.275s] Invoked command in '/home/zy/dobot_ws/build/nova2_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/nova2_moveit -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/nova2_moveit
+[4.290s] Invoking command in '/home/zy/dobot_ws/build/nova2_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/nova2_moveit -- -j32 -l32
+[4.620s] Invoked command in '/home/zy/dobot_ws/build/nova2_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/nova2_moveit -- -j32 -l32
+[4.634s] Invoking command in '/home/zy/dobot_ws/build/nova2_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/nova2_moveit
+[4.724s] -- Install configuration: ""
+[4.724s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/ament_index/resource_index/package_run_dependencies/nova2_moveit
+[4.725s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/ament_index/resource_index/parent_prefix_path/nova2_moveit
+[4.725s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/environment/ament_prefix_path.sh
+[4.725s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/environment/ament_prefix_path.dsv
+[4.726s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/environment/path.sh
+[4.726s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/environment/path.dsv
+[4.726s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/local_setup.bash
+[4.727s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/local_setup.sh
+[4.727s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/local_setup.zsh
+[4.727s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/local_setup.dsv
+[4.728s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/package.dsv
+[4.728s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/ament_index/resource_index/packages/nova2_moveit
+[4.728s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/cmake/nova2_moveitConfig.cmake
+[4.728s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/cmake/nova2_moveitConfig-version.cmake
+[4.729s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/package.xml
+[4.729s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch
+[4.730s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/move_group.launch.py
+[4.730s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/warehouse_db.launch.py
+[4.730s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/spawn_controllers.launch.py
+[4.730s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/static_virtual_joint_tfs.launch.py
+[4.731s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/demo.launch.py
+[4.731s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/rsp.launch.py
+[4.732s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/setup_assistant.launch.py
+[4.733s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/moveit_rviz.launch.py
+[4.733s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/moveit_gazebo.launch.py
+[4.734s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/launch/dobot_moveit.launch.py
+[4.734s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config
+[4.734s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/ros2_controllers.yaml
+[4.735s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/nova2_robot.ros2_control.xacro
+[4.735s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/initial_positions.yaml
+[4.735s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/joint_limits.yaml
+[4.735s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/nova2_robot.urdf.xacro
+[4.736s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/moveit.rviz
+[4.736s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/pilz_cartesian_limits.yaml
+[4.737s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/kinematics.yaml
+[4.737s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/moveit_controllers.yaml
+[4.738s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/config/nova2_robot.srdf
+[4.739s] -- Installing: /home/zy/dobot_ws/install/nova2_moveit/share/nova2_moveit/.setup_assistant
+[5.062s] Invoked command in '/home/zy/dobot_ws/build/nova2_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/nova2_moveit

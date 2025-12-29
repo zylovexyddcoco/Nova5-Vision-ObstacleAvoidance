@@ -1,0 +1,37 @@
+[4.002s] Invoking command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_demo': PYTHONPATH=/home/zy/dobot_ws/build/dobot_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_demo build --build-base /home/zy/dobot_ws/build/dobot_demo/build install --record /home/zy/dobot_ws/build/dobot_demo/install.log --single-version-externally-managed install_data
+[6.044s] running egg_info
+[6.049s] creating ../../../build/dobot_demo/dobot_demo.egg-info
+[6.050s] writing ../../../build/dobot_demo/dobot_demo.egg-info/PKG-INFO
+[6.052s] writing dependency_links to ../../../build/dobot_demo/dobot_demo.egg-info/dependency_links.txt
+[6.054s] writing entry points to ../../../build/dobot_demo/dobot_demo.egg-info/entry_points.txt
+[6.055s] writing requirements to ../../../build/dobot_demo/dobot_demo.egg-info/requires.txt
+[6.056s] writing top-level names to ../../../build/dobot_demo/dobot_demo.egg-info/top_level.txt
+[6.057s] writing manifest file '../../../build/dobot_demo/dobot_demo.egg-info/SOURCES.txt'
+[6.071s] reading manifest file '../../../build/dobot_demo/dobot_demo.egg-info/SOURCES.txt'
+[6.076s] writing manifest file '../../../build/dobot_demo/dobot_demo.egg-info/SOURCES.txt'
+[6.078s] running build
+[6.080s] running build_py
+[6.081s] creating /home/zy/dobot_ws/build/dobot_demo/build
+[6.082s] creating /home/zy/dobot_ws/build/dobot_demo/build/lib
+[6.082s] creating /home/zy/dobot_ws/build/dobot_demo/build/lib/dobot_demo
+[6.084s] copying dobot_demo/__init__.py -> /home/zy/dobot_ws/build/dobot_demo/build/lib/dobot_demo
+[6.084s] copying dobot_demo/demo.py -> /home/zy/dobot_ws/build/dobot_demo/build/lib/dobot_demo
+[6.085s] running install
+[6.086s] running install_lib
+[6.090s] creating /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo
+[6.092s] copying /home/zy/dobot_ws/build/dobot_demo/build/lib/dobot_demo/__init__.py -> /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo
+[6.093s] copying /home/zy/dobot_ws/build/dobot_demo/build/lib/dobot_demo/demo.py -> /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo
+[6.096s] byte-compiling /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/__init__.py to __init__.cpython-310.pyc
+[6.097s] byte-compiling /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo/demo.py to demo.cpython-310.pyc
+[6.105s] running install_data
+[6.106s] creating /home/zy/dobot_ws/install/dobot_demo/share/ament_index
+[6.106s] creating /home/zy/dobot_ws/install/dobot_demo/share/ament_index/resource_index
+[6.107s] creating /home/zy/dobot_ws/install/dobot_demo/share/ament_index/resource_index/packages
+[6.110s] copying resource/dobot_demo -> /home/zy/dobot_ws/install/dobot_demo/share/ament_index/resource_index/packages
+[6.110s] copying package.xml -> /home/zy/dobot_ws/install/dobot_demo/share/dobot_demo
+[6.111s] running install_egg_info
+[6.123s] Copying ../../../build/dobot_demo/dobot_demo.egg-info to /home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages/dobot_demo-0.0.0-py3.10.egg-info
+[6.133s] running install_scripts
+[6.296s] Installing demo script to /home/zy/dobot_ws/install/dobot_demo/lib/dobot_demo
+[6.298s] writing list of installed files to '/home/zy/dobot_ws/build/dobot_demo/install.log'
+[6.466s] Invoked command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_demo' returned '0': PYTHONPATH=/home/zy/dobot_ws/build/dobot_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_demo build --build-base /home/zy/dobot_ws/build/dobot_demo/build install --record /home/zy/dobot_ws/build/dobot_demo/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.611s] Invoking command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_bringup_v3': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description PYTHONPATH=/home/zy/dobot_ws/build/dobot_bringup_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_bringup_v3 build --build-base /home/zy/dobot_ws/build/dobot_bringup_v3/build install --record /home/zy/dobot_ws/build/dobot_bringup_v3/install.log --single-version-externally-managed install_data
+[0.774s] running egg_info
+[0.774s] writing ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/PKG-INFO
+[0.775s] writing dependency_links to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/dependency_links.txt
+[0.775s] writing entry points to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/entry_points.txt
+[0.775s] writing requirements to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/requires.txt
+[0.775s] writing top-level names to ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/top_level.txt
+[0.776s] reading manifest file '../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/SOURCES.txt'
+[0.777s] writing manifest file '../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info/SOURCES.txt'
+[0.777s] running build
+[0.777s] running build_py
+[0.777s] running install
+[0.777s] running install_lib
+[0.778s] running install_data
+[0.779s] running install_egg_info
+[0.780s] removing '/home/zy/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3-0.0.0-py3.10.egg-info' (and everything under it)
+[0.780s] Copying ../../../build/dobot_bringup_v3/dobot_bringup_v3.egg-info to /home/zy/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages/dobot_bringup_v3-0.0.0-py3.10.egg-info
+[0.781s] running install_scripts
+[0.795s] Installing dobot_bringup script to /home/zy/dobot_ws/install/dobot_bringup_v3/lib/dobot_bringup_v3
+[0.795s] Installing feedback script to /home/zy/dobot_ws/install/dobot_bringup_v3/lib/dobot_bringup_v3
+[0.796s] writing list of installed files to '/home/zy/dobot_ws/build/dobot_bringup_v3/install.log'
+[0.811s] Invoked command in '/home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/dobot_bringup_v3' returned '0': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description PYTHONPATH=/home/zy/dobot_ws/build/dobot_bringup_v3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zy/dobot_ws/install/dobot_bringup_v3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/dobot_bringup_v3 build --build-base /home/zy/dobot_ws/build/dobot_bringup_v3/build install --record /home/zy/dobot_ws/build/dobot_bringup_v3/install.log --single-version-externally-managed install_data

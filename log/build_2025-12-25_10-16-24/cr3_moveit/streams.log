@@ -1,0 +1,43 @@
+[0.072s] Invoking command in '/home/zy/dobot_ws/build/cr3_moveit': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description:/home/zy/dobot_ws/install/servo_action:/home/zy/dobot_ws/install/dobot_bringup_v3:/home/zy/dobot_ws/install/dobot_moveit:/home/zy/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cr3_moveit -- -j32 -l32
+[0.343s] Invoked command in '/home/zy/dobot_ws/build/cr3_moveit' returned '0': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description:/home/zy/dobot_ws/install/servo_action:/home/zy/dobot_ws/install/dobot_bringup_v3:/home/zy/dobot_ws/install/dobot_moveit:/home/zy/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cr3_moveit -- -j32 -l32
+[0.349s] Invoking command in '/home/zy/dobot_ws/build/cr3_moveit': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description:/home/zy/dobot_ws/install/servo_action:/home/zy/dobot_ws/install/dobot_bringup_v3:/home/zy/dobot_ws/install/dobot_moveit:/home/zy/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cr3_moveit
+[0.372s] -- Install configuration: ""
+[0.372s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/package_run_dependencies/cr3_moveit
+[0.372s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/parent_prefix_path/cr3_moveit
+[0.372s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/ament_prefix_path.sh
+[0.372s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/ament_prefix_path.dsv
+[0.372s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/path.sh
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/environment/path.dsv
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.bash
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.sh
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.zsh
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/local_setup.dsv
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/package.dsv
+[0.373s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/ament_index/resource_index/packages/cr3_moveit
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/cmake/cr3_moveitConfig.cmake
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/cmake/cr3_moveitConfig-version.cmake
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/package.xml
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/move_group.launch.py
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/warehouse_db.launch.py
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/spawn_controllers.launch.py
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/static_virtual_joint_tfs.launch.py
+[0.374s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/demo.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/rsp.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/setup_assistant.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/moveit_rviz.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/moveit_gazebo.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/launch/dobot_moveit.launch.py
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/ros2_controllers.yaml
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/initial_positions.yaml
+[0.375s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/joint_limits.yaml
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.ros2_control.xacro
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/moveit.rviz
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/pilz_cartesian_limits.yaml
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/kinematics.yaml
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.srdf
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/moveit_controllers.yaml
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/config/cr3_robot.urdf.xacro
+[0.376s] -- Up-to-date: /home/zy/dobot_ws/install/cr3_moveit/share/cr3_moveit/.setup_assistant
+[0.436s] Invoked command in '/home/zy/dobot_ws/build/cr3_moveit' returned '0': CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/home/zy/dobot_ws/install/obstacle_avoidance:/home/zy/dobot_ws/install/nova5_moveit:/home/zy/dobot_ws/install/nova2_moveit:/home/zy/dobot_ws/install/cr7_moveit:/home/zy/dobot_ws/install/cr5_moveit:/home/zy/dobot_ws/install/cr3_moveit:/home/zy/dobot_ws/install/cr16_moveit:/home/zy/dobot_ws/install/cr12_moveit:/home/zy/dobot_ws/install/cr10_moveit:/home/zy/dobot_ws/install/dobot_msgs_v3:/home/zy/dobot_ws/install/dobot_gazebo:/home/zy/dobot_ws/install/cra_description:/home/zy/dobot_ws/install/servo_action:/home/zy/dobot_ws/install/dobot_bringup_v3:/home/zy/dobot_ws/install/dobot_moveit:/home/zy/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cr3_moveit

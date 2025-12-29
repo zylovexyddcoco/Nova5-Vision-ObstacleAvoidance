@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>obstacle_avoidance</name>
+  <version>0.0.1</version>
+  <description>Obstacle avoidance package for Nova5</description>
+  <maintainer email="your@email.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_cmake_python</buildtool_depend>
+  
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>octomap_server</exec_depend>
+  <exec_depend>octomap_msgs</exec_depend>
+  <exec_depend>moveit_msgs</exec_depend>
+  <exec_depend>moveit_ros_perception</exec_depend>
+  <exec_depend>realsense2_camera</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

@@ -1,0 +1,62 @@
+[0.180s] Invoking command in '/home/zy/dobot_ws/build/cr7_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cr7_moveit -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cr7_moveit
+[0.521s] -- The C compiler identification is GNU 11.4.0
+[0.879s] -- The CXX compiler identification is GNU 11.4.0
+[0.927s] -- Detecting C compiler ABI info
+[1.391s] -- Detecting C compiler ABI info - done
+[1.485s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.485s] -- Detecting C compile features
+[1.486s] -- Detecting C compile features - done
+[1.490s] -- Detecting CXX compiler ABI info
+[2.048s] -- Detecting CXX compiler ABI info - done
+[2.103s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.104s] -- Detecting CXX compile features
+[2.106s] -- Detecting CXX compile features - done
+[2.120s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.148s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.175s] -- Configuring done
+[4.231s] -- Generating done
+[4.239s] -- Build files have been written to: /home/zy/dobot_ws/build/cr7_moveit
+[4.352s] Invoked command in '/home/zy/dobot_ws/build/cr7_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake /home/zy/dobot_ws/src/DOBOT_6Axis_ROS2_V3/cr7_moveit -DCMAKE_INSTALL_PREFIX=/home/zy/dobot_ws/install/cr7_moveit
+[4.359s] Invoking command in '/home/zy/dobot_ws/build/cr7_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cr7_moveit -- -j32 -l32
+[4.832s] Invoked command in '/home/zy/dobot_ws/build/cr7_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --build /home/zy/dobot_ws/build/cr7_moveit -- -j32 -l32
+[4.846s] Invoking command in '/home/zy/dobot_ws/build/cr7_moveit': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cr7_moveit
+[4.895s] -- Install configuration: ""
+[4.895s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/ament_index/resource_index/package_run_dependencies/cr7_moveit
+[4.895s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/ament_index/resource_index/parent_prefix_path/cr7_moveit
+[4.896s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/environment/ament_prefix_path.sh
+[4.896s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/environment/ament_prefix_path.dsv
+[4.897s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/environment/path.sh
+[4.897s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/environment/path.dsv
+[4.897s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/local_setup.bash
+[4.897s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/local_setup.sh
+[4.898s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/local_setup.zsh
+[4.898s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/local_setup.dsv
+[4.898s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/package.dsv
+[4.899s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/ament_index/resource_index/packages/cr7_moveit
+[4.899s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/cmake/cr7_moveitConfig.cmake
+[4.899s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/cmake/cr7_moveitConfig-version.cmake
+[4.900s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/package.xml
+[4.900s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch
+[4.901s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/move_group.launch.py
+[4.901s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/warehouse_db.launch.py
+[4.901s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/spawn_controllers.launch.py
+[4.901s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/static_virtual_joint_tfs.launch.py
+[4.902s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/demo.launch.py
+[4.902s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/rsp.launch.py
+[4.902s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/setup_assistant.launch.py
+[4.903s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/moveit_rviz.launch.py
+[4.903s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/moveit_gazebo.launch.py
+[4.903s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/launch/dobot_moveit.launch.py
+[4.903s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config
+[4.904s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/ros2_controllers.yaml
+[4.905s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/initial_positions.yaml
+[4.905s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/joint_limits.yaml
+[4.905s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/moveit.rviz
+[4.906s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/pilz_cartesian_limits.yaml
+[4.906s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/kinematics.yaml
+[4.907s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/moveit_controllers.yaml
+[4.907s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/cr7_robot.srdf
+[4.908s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/cr7_robot.ros2_control.xacro
+[4.908s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/config/cr7_robot.urdf.xacro
+[4.908s] -- Installing: /home/zy/dobot_ws/install/cr7_moveit/share/cr7_moveit/.setup_assistant
+[5.446s] Invoked command in '/home/zy/dobot_ws/build/cr7_moveit' returned '0': AMENT_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zy/dobot_ws/install/dobot_rviz:/opt/ros/humble /usr/bin/cmake --install /home/zy/dobot_ws/build/cr7_moveit
