@@ -101,17 +101,27 @@ pip install open3d numpy transforms3d
 ### 3. 克隆并编译
 
 ```bash
+
 # 克隆本仓库
 cd ~
 git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git
 cd Nova5-Vision-ObstacleAvoidance
+
+# 安装依赖
+sudo apt install ros-humble-moveit ros-humble-ros2-control ros-humble-ros2-controllers
+
+# 设置机器人类型环境变量# 设置环境变量
+echo 'export DOBOT_TYPE=nova5' >> ~/.bashrc
+echo 'export IP_address=192.168.5.1' >> ~/.bashrc
+source ~/.bashrc
 
 # 编译
 colcon build
 
 # 设置环境变量
 source install/setup.bash
-echo "source ~/Nova5-Vision-ObstacleAvoidance/install/setup.bash" >> ~/.bashrc下
+echo "source ~/Nova5-Vision-ObstacleAvoidance/install/setup.bash" >> ~/.bashrc
+
 
 ```
 
