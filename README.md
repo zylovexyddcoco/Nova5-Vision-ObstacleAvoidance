@@ -79,7 +79,7 @@ mkdir -p ~/nova5_ws/src
 cd ~/nova5_ws/src
 
 # 克隆本仓库
-git clone https://github.com/zylovexyddcoc/Nova5-Vision-ObstacleAvoidance.git obstacle_avoidance
+git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git obstacle_avoidance
 
 # 克隆Dobot ROS2驱动（如尚未安装）
 git clone https://github.com/Dobot-Arm/DOBOT_6Axis_ROS2_V3.git
