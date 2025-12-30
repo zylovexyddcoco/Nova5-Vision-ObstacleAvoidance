@@ -103,7 +103,7 @@ pip install open3d numpy transforms3d
 ```bash
 # 创建工作空间
 mkdir -p ~/nova5_ws
-cd ~/nova5_ws/src
+cd ~/nova5_ws
 
 # 克隆本仓库
 git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git
