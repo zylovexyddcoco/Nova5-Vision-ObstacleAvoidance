@@ -106,7 +106,7 @@ mkdir -p ~/nova5_ws/src
 cd ~/nova5_ws/src
 
 # 克隆本仓库
-git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git obstacle_avoidance
+git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git
 
 # 编译
 cd ~/nova5_ws
@@ -164,23 +164,6 @@ python3 ~/nova5_ws/src/obstacle_avoidance/scripts/drag_controller.py
 # 按 'e' 重新使能
 ```
 
-## 目录结构
-
-```
-obstacle_avoidance/
-├── launch/
-│   ├── camera_tf.launch.py      # 相机TF发布
-│   └── octomap.launch.py        # OctoMap启动
-├── scripts/
-│   ├── self_filter.py           # 动态自身过滤
-│   ├── octomap_to_planning_scene.py  # OctoMap-MoveIt桥接
-│   └── drag_controller.py       # 拖拽模式控制
-├── config/
-│   └── octomap_config.yaml      # OctoMap参数配置
-├── CMakeLists.txt
-├── package.xml
-└── README.md
-```
 
 ## 配置参数
 
