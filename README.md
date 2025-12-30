@@ -187,16 +187,7 @@ python3 ~/nova5_ws/src/obstacle_avoidance/scripts/drag_controller.py
 
 ## 手眼标定
 
-系统需要相机到机械臂基座的变换矩阵，可通过以下方式获取：
-
-1. 使用`easy_handeye`等标定工具
-2. 标定结果填入`launch/camera_tf.launch.py`
-
-```python
-# 示例标定结果
-translation = [x, y, z]  # 平移（米）
-rotation = [qx, qy, qz, qw]  # 四元数旋转
-```
+可参考(https://github.com/zylovexyddcoco/Dobot-Nova5-Controll-and-Calibration)
 
 ## 常见问题
 
