@@ -53,16 +53,43 @@
 
 ## 安装步骤
 
-### 1. 安装ROS2依赖
+### 1. 安装ROS2
 
-```bash
-sudo apt update
-sudo apt install -y \
-    ros-humble-moveit \
-    ros-humble-octomap-server \
-    ros-humble-octomap-rviz-plugins \
-    ros-humble-realsense2-camera \
-    ros-humble-tf2-tools
+```
+bash
+#1. 设置编码
+$ sudo apt update && sudo apt install locales
+$ sudo locale-gen en_US en_US.UTF-8
+$ sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8 
+$ export LANG=en_US.UTF-8
+#2. 添加源
+$ sudo apt update && sudo apt install curl gnupg lsb-release 
+$ sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg 
+$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+如遇报错“Failed to connect to raw.githubusercontent.com”，可参考https://www.guyuehome.com/37844
+
+#3. 安装ROS2
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install ros-humble-desktop
+#4. 设置环境变量
+$ source /opt/ros/humble/setup.bash
+$ echo " source /opt/ros/humble/setup.bash" >> ~/.bashrc 
+至此，ROS2就已经在系统中安装好了。
+
+ROS2示例测试
+为了验证ROS2安装成功，我们可以通过以下示例进行测试。
+
+#示例一：命令行示例
+启动第一个终端，通过以下命令启动一个数据的发布者节点：
+
+$ ros2 run demo_nodes_cpp talker
+
+#启动第二个终端，通过以下命令启动一个数据的订阅者节点：
+
+$ ros2 run demo_nodes_py listener
+
+如果“Hello World”字符串在两个终端中正常传输，说明通信系统没有问题。
 ```
 
 ### 2. 安装Python依赖
@@ -81,13 +108,13 @@ cd ~/nova5_ws/src
 # 克隆本仓库
 git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git obstacle_avoidance
 
-# 克隆Dobot ROS2驱动（如尚未安装）
-git clone https://github.com/Dobot-Arm/DOBOT_6Axis_ROS2_V3.git
-
 # 编译
 cd ~/nova5_ws
 colcon build
+
+# 设置环境变量 (自动写入 .bashrc，以后无需每次手动 source)
 source install/setup.bash
+echo "source ~/nova5_ws/install/setup.bash" >> ~/.bashrc
 ```
 
 ## 使用方法
