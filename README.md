@@ -106,6 +106,9 @@ pip install open3d numpy transforms3d
 # 克隆本仓库
 git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git
 
+#切换路径
+cd Nova5-Vision-ObstacleAvoidance
+
 # 编译
 colcon build
 
