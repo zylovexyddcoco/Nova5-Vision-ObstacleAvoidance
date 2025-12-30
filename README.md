@@ -101,20 +101,18 @@ pip install open3d numpy transforms3d
 ### 3. 克隆并编译
 
 ```bash
-# 在根目录下
-
 # 克隆本仓库
+cd ~
 git clone https://github.com/zylovexyddcoco/Nova5-Vision-ObstacleAvoidance.git
-
-#切换路径
 cd Nova5-Vision-ObstacleAvoidance
 
 # 编译
 colcon build
 
-# 设置环境变量 (自动写入 .bashrc，以后无需每次手动 source)
+# 设置环境变量
 source install/setup.bash
-echo "source ~/Nova5-Vision-ObstacleAvoidance/install/setup.bash" >> ~/.bashrc
+echo "source ~/Nova5-Vision-ObstacleAvoidance/install/setup.bash" >> ~/.bashrc下
+
 ```
 
 ## 使用方法
