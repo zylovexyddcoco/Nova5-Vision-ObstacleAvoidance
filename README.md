@@ -116,7 +116,7 @@ echo 'export IP_address=192.168.5.1' >> ~/.bashrc
 source ~/.bashrc
 
 # 编译
-colcon build
+colcon build  编译前请清空build原有内容！！！
 
 # 设置环境变量
 source install/setup.bash
